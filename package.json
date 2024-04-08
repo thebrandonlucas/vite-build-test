@@ -30,7 +30,5 @@
 		"vite": "^5.0.3"
 	},
 	"type": "module",
-	"dependencies": {
-		"bitcoin-qr": "^1.2.1"
-	}
+	"dependencies": {}
 }

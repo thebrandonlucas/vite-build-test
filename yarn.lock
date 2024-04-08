@@ -557,11 +557,6 @@ binary-extensions@^2.0.0:
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-2.3.0.tgz#f6e14a97858d327252200242d4ccfe522c445522"
   integrity sha512-Ceh+7ox5qe7LJuLHoY0feh3pHuUDHAcRUeyL2VYghZwfpkNIy/+8Ocg0a3UuSoYzavmylwuLWQOf3hl0jjMMIw==
 
-bitcoin-qr@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/bitcoin-qr/-/bitcoin-qr-1.2.1.tgz#35248bb4b06f9158706026e352ec7c2e69a58e80"
-  integrity sha512-3x31JPiYBo/HrcoHV6nP81R9fQeckkbKDU3qN2JKCXCT6Wc0aNA0KyMB8XZQDZMqydNpiBqjJbdqmoJn3Wl2PA==
-
 brace-expansion@^1.1.7:
   version "1.1.11"
   resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.11.tgz#3c7fcbf529d87226f3d2f52b966ff5271eb441dd"
